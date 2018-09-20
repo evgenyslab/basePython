@@ -1,0 +1,7 @@
+*
+!.gitignore
+!init.sh
+!README.md
+!requirements.txt
+!update.sh
+!clean.sh
